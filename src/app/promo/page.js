@@ -198,7 +198,7 @@ export default function PromoPage() {
             Belum Ada Promo
           </h2>
           <p className="text-gray-400 mb-8">Promo terbaru akan segera hadir!</p>
-          <button
+          {/* <button
             onClick={() =>
               window.open(
                 "https://wa.me/62895622830815?text=Hi, I want to upload a promo",
@@ -208,7 +208,7 @@ export default function PromoPage() {
             className="px-6 py-3 bg-gradient-to-r from-yellow-400 to-yellow-500 text-black font-semibold rounded-full hover:shadow-lg transition-all"
           >
             Upload Promo Pertama
-          </button>
+          </button> */}
         </div>
       </div>
     );
