@@ -148,14 +148,6 @@ export const servicesData = {
       image: "/layanan/SewaAlatDj.jpeg",
       category: "jasa-lainnya",
     },
-    {
-      id: "rempah-nusantara",
-      name: "REMPAH NUSANTARA",
-      description: "Produk khas Nusantara untuk souvenir atau hampers",
-      price: "Mulai dari Rp 500.000",
-      image: "/layanan/rempah-nusantara.jpeg",
-      category: "jasa-lainnya",
-    },
   ],
 };
 
